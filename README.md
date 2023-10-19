@@ -82,12 +82,12 @@ Make sure you have the following prerequisites installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/SaiAkhil145/Hotel_Management_System
    
 2. Navigate to the project directory
 
     ```bash
-    cd
+    cd Hotel_Management_System
 ## Usage
 
 To use the User Management app, you can make HTTP requests to the provided API endpoints using your favorite API testing tool or framework.
